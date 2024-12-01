@@ -270,8 +270,9 @@
 //bool result=Search(name);
 //if (result)
 //{
-//	Console.WriteLine("Name is found");
+//	Console.WriteLine("name is found");
 //}
 //else {
-//	Console.WriteLine("Name is not found");
+//
+//	Console.WriteLine("name is not found");
 //}

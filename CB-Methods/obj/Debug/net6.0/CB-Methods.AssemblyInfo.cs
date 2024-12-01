@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CB-Methods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38f19bc28a4b151e32723c5c204778ca7496ec12")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8b29a95d5046bc4d68802165fade572b59aaf88")]
 [assembly: System.Reflection.AssemblyProductAttribute("CB-Methods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CB-Methods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
